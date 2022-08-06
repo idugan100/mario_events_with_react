@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+p,h1,h2{
+  color: #555;
+}
+button{
+  color: white;
+  background-color: #ff4500;
+  padding:10px;
+  border: 0px;
+  border-radius: 4px;
+  margin:10px auto;
+  cursor: pointer;
+}
